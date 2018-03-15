@@ -23,15 +23,15 @@ Exercism.io is written in Ruby using the Sinatra web framework and primarily mai
 [Homebrew](https://brew.sh/)
 Ruby package manager for macOS Homebrew will be represented by core team member [Alyssa Ross](https://github.com/alyssais).
 
-// Passenger?
-// Rails Girls?
+[Traveling Ruby](http://phusion.github.io/traveling-ruby/)
+Traveling Ruby lets you create self-contained Ruby app packages for Windows, Linux and OS X. Traveling Ruby is a Phusion (Passenger) project and will as such be represented by [Hongli Lai](https://github.com/foobarwidget).
 
-### Tickets
+// Rails Girls
+
 
 "We had a strong team with contributors from a variety of backgrounds. We received 3 patches, 1 bug fix, and 1 feature, all in the course of just one day. I couldn't be more pleased!"
 Zachary Scott (Ruby core team) about his ROSS conf experience
 
-_use the embed Eventbrite_
 
 ### Sponsors
 [Phusion Passenger](https://www.phusion.nl/)
@@ -62,3 +62,6 @@ Subscribe to our mailing list:
 `email` `subscribe`
 
 This project adheres to the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/#ROSSConf/hello@rossconf.io). By participating, you are expected to honor this code.
+
+[Twitter](http://twitter.com/rossconf) 
+[GitHub]()
